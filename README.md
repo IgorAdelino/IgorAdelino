@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="justify"> 
-<a href="https://www.linkedin.com/in/igor-adelino-337541222/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/igor-adelino-337541222/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>  
 <a href = "mailto:igoradelino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-b22323?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
   
