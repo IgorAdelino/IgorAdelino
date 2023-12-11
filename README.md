@@ -1,4 +1,12 @@
+### Hi there, I'm Igor Adelino
 
+<hr/>
+
+-  I'm a Software Engineer and Computer Science Student at University Center Unipê.
+-  I have a deep interest in Solid Principles, Clean Architeture, Design Patterns and Microsservices
+-  My primary interests are Backend Programming, utilizing Javascript, Typescript (Nodejs, Nestjs, Prisma, Vitest and Jest), but also
+have experience with Cloud-based projects with AWS (Lambda, Aurora, API Gateway) and Frontend development with Angular, React and Next.
+<hr/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorAdelino&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Igor Adelino github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorAdelino&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
