@@ -2,7 +2,7 @@
 
 <hr/>
 
--  I'm a Software Engineer and Computer Science Student at University Center Unipê.
+-  I'm a Software Engineer and Computer Science Student at University Center Cruzeiro do Sul.
 -  I have a deep interest in Solid Principles, Clean Architeture, Design Patterns and Microsservices
 -  My primary interests are Backend Programming, utilizing Javascript, Typescript (Nodejs, Nestjs, Prisma, Vitest and Jest), but also
 have experience in Cloud-based projects with AWS (Lambda, Aurora, API Gateway) and Frontend development (Angular, React and Next).
