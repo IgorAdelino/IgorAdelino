@@ -3,7 +3,6 @@
 <hr/>
 
 -  I'm a Software Engineer and Computer Science Student at University Center Cruzeiro do Sul.
--  I have a deep interest in Solid Principles, Clean Architecture, Design Patterns, and Microservices
 -  Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily.
 <hr/>
 <div align="center">  
