@@ -3,8 +3,8 @@
 <hr/>
 
 -  I'm a Software Engineer and Computer Science Student at University Center Cruzeiro do Sul.
--  I have a deep interest in Solid Principles, Clean Architeture, Design Patterns and Microsservices
--  Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily. I routinely monitor, test, and deploy containerized applications in cloud-based projects.
+-  I have a deep interest in Solid Principles, Clean Architecture, Design Patterns, and Microservices
+-  Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily.
 <hr/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorAdelino&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Igor Adelino github stats" /> 
