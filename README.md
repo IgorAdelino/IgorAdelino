@@ -4,6 +4,8 @@
 
 -  Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily.
 - Typescript | Javascript | C# | Python | Solidity 
+
+### Technologies
 - Node.js | React.js | Next.js | Nest.js
 - Microservices / Clean Architecture / SOLID / Design Patterns / Web3 / Blockchain.
 - AWS | API Gateway | Cloudwatch | SSM | Lambda | VPC | EC2 | RDS | S3.
