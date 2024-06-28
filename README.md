@@ -4,8 +4,7 @@
 
 -  I'm a Software Engineer and Computer Science Student at University Center Cruzeiro do Sul.
 -  I have a deep interest in Solid Principles, Clean Architeture, Design Patterns and Microsservices
--  My primary interests are Backend Programming, utilizing Javascript, Typescript (Nodejs, Nestjs, Prisma, Vitest and Jest), but also
-have experience in Cloud-based projects with AWS (Lambda, Aurora, API Gateway) and Frontend development (Angular, React and Next).
+-  Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily. I routinely monitor, test, and deploy containerized applications in cloud-based projects.
 <hr/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorAdelino&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Igor Adelino github stats" /> 
