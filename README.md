@@ -8,7 +8,7 @@
 
 ### Technologies
 - Typescript | Javascript | C# | Python | Solidity 
-- Node.js | React.js | Next.js | Nest.js
+- Node.js | React.js | .NET | Next.js | Nest.js
 - Microservices / Clean Architecture / SOLID / Design Patterns / Web3 / Blockchain.
 - AWS | API Gateway | Cloudwatch | SSM | Lambda | VPC | EC2 | RDS | S3.
 - Prisma | MySQL | PostgreSQL | MongoDB | Aurora | DynamoDB | Redis.
