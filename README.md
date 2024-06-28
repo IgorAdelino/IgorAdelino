@@ -3,14 +3,14 @@
 <hr/>
 
 -  Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily.
-• Typescript | Javascript | C# | Python | Solidity 
-• Node.js | React.js | Next.js | Nest.js
-• Microservices / Clean Architecture / SOLID / Design Patterns / Web3 / Blockchain.
-• AWS | API Gateway | Cloudwatch | SSM | Lambda | VPC | EC2 | RDS | S3.
-• Prisma | MySQL | PostgreSQL | MongoDB | Aurora | DynamoDB | Redis.
-• Tailwind | Shadcn | AceternityUI | MUI
-• Docker | RabbitMQ | CI/CD
-• Tests (unitary / integration / load / E2E / Contract) | Vitest | Jest | Cypress | Playwright
+- • Typescript | Javascript | C# | Python | Solidity 
+- • Node.js | React.js | Next.js | Nest.js
+- • Microservices / Clean Architecture / SOLID / Design Patterns / Web3 / Blockchain.
+- • AWS | API Gateway | Cloudwatch | SSM | Lambda | VPC | EC2 | RDS | S3.
+- • Prisma | MySQL | PostgreSQL | MongoDB | Aurora | DynamoDB | Redis.
+- • Tailwind | Shadcn | AceternityUI | MUI
+- • Docker | RabbitMQ | CI/CD
+- • Tests (unitary / integration / load / E2E / Contract) | Vitest | Jest | Cypress | Playwright
 <hr/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorAdelino&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Igor Adelino github stats" /> 
