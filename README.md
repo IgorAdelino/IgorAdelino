@@ -2,10 +2,12 @@
 
 <hr/>
 
--  Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily.
-- Typescript | Javascript | C# | Python | Solidity 
+- Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily.
+- Teamwork is essential to me. With a background in high-performance teams, I motivate and help the team to beat and surpass the goals from each quarter/sprint.
+-  In my free time, I study DApps, serverless architecture, and blockchain technology
 
 ### Technologies
+- Typescript | Javascript | C# | Python | Solidity 
 - Node.js | React.js | Next.js | Nest.js
 - Microservices / Clean Architecture / SOLID / Design Patterns / Web3 / Blockchain.
 - AWS | API Gateway | Cloudwatch | SSM | Lambda | VPC | EC2 | RDS | S3.
