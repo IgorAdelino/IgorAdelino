@@ -1,5 +1,8 @@
 ### Hi there, I'm Igor Adelino
-
+<div align="justify"> 
+<a href="https://www.linkedin.com/in/igoradelino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>  
+<a href = "mailto:igoradelino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-b22323?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
 <hr/>
 
 - Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily.
@@ -21,10 +24,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorAdelino&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 <br/>
-<div align="justify"> 
-<a href="https://www.linkedin.com/in/igoradelino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>  
-<a href = "mailto:igoradelino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-b22323?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+
   
 ### Some skills in:
 
