@@ -7,7 +7,7 @@
 <table width="100%">
   <tr>
     <td valign="middle" align="center" width="50%">
-      <h3>About myself</h3>
+      <h3>About me</h3>
       <p valign="middle" align="left">
         • Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications.<br/>
         • Teamwork is essential to me. Let's work together!<br/>
