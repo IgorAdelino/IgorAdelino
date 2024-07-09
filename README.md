@@ -10,7 +10,7 @@
       <h3>About myself</h3>
       <p valign="middle" align="left">
         • Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications.<br/>
-        • Teamwork is essential to me.<br/>
+        • Teamwork is essential to me. Let's work together!<br/>
         • In my free time, I study DApps, serverless architecture, and blockchain technology.
       </p>
     </td>
@@ -50,7 +50,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,typescript,cs,python" alt="My Skills" style="max-width: 100%; width: 50%;">
+        <img src="https://skillicons.dev/icons?i=js,typescript,cs,python,solidity" alt="My Skills" style="max-width: 100%; width: 50%;">
       </a>
     </p>
   </div>
@@ -60,7 +60,7 @@
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,expressjs,html,css,react,nextjs,angular" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=aws,dotnet,nodejs,nestjs,expressjs,html,css,react,nextjs,angular" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
   <p align="center">
