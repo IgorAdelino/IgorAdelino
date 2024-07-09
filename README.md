@@ -1,8 +1,5 @@
 ### Hi there, I'm Igor Adelino
-<div align="justify"> 
-<a href="https://www.linkedin.com/in/igoradelino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>  
-<a href = "mailto:igoradelino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-b22323?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+
 <hr/>
 
 - Skilled Software Engineer experienced in developing, scaling, securing, and maintaining large-scale web applications, microservices, and APIs in critical environments serving thousands of users daily.
@@ -18,6 +15,10 @@
 - Tailwind | Shadcn | AceternityUI | MUI
 - Docker | RabbitMQ | CI/CD
 - Tests (unitary / integration / load / E2E / Contract) | Vitest | Jest | Cypress | Playwright
+<div align="justify"> 
+<a href="https://www.linkedin.com/in/igoradelino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>  
+<a href = "mailto:igoradelino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-b22323?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
 <hr/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorAdelino&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Igor Adelino GitHub stats" /> 
