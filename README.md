@@ -3,7 +3,6 @@
 </h1>
 
 <hr/>
-
 <table width="100%">
   <tr>
     <td valign="middle" align="center" width="50%">
@@ -40,9 +39,6 @@
   </p>
 </div>
 <hr/>
-<br/>
-
-
 <div align="center" style="display: flex; justify-content: space-around; width: 100%;">
   <div align="center" width="50%">
     <h3 align="center">
