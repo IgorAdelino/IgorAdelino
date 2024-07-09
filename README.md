@@ -6,15 +6,6 @@
 - Teamwork is essential to me. With a background in high-performance teams, I motivate and help the team to beat and surpass the goals from each quarter/sprint.
 -  In my free time, I study DApps, serverless architecture, and blockchain technology.
 
-### Technologies
-- Typescript | Javascript | C# | Python | Solidity 
-- Node.js | React.js | .NET | Next.js | Nest.js
-- Microservices / Clean Architecture / SOLID / Design Patterns / Web3 / Blockchain.
-- AWS | API Gateway | Cloudwatch | SSM | Lambda | VPC | EC2 | RDS | S3.
-- Prisma | MySQL | PostgreSQL | MongoDB | Aurora | DynamoDB | Redis.
-- Tailwind | Shadcn | AceternityUI | MUI
-- Docker | RabbitMQ | CI/CD
-- Tests (unitary / integration / load / E2E / Contract) | Vitest | Jest | Cypress | Playwright
 <div align="justify"> 
 <a href="https://www.linkedin.com/in/igoradelino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>  
 <a href = "mailto:igoradelino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-b22323?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
