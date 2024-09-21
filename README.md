@@ -55,12 +55,12 @@
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,nodejs,nestjs,expressjs,html,css,react,nextjs" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=aws,nodejs,nestjs,expressjs,rabbitmq,docker,css,react,nextjs" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=azure,vite,tailwind,bootstrap,sass,prisma,docker,mysql,postgres,mongo,jest" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=azure,vite,tailwind,bootstrap,html,css,prisma,mysql,postgres,mongo,jest" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
 </div>
