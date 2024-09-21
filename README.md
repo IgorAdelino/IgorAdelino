@@ -45,7 +45,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,typescript,cs,python,solidity" alt="My Skills" style="max-width: 100%; width: 50%;">
+        <img src="https://skillicons.dev/icons?i=js,typescript,golang,solidity" alt="My Skills" style="max-width: 100%; width: 50%;">
       </a>
     </p>
   </div>
@@ -55,7 +55,7 @@
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,dotnet,nodejs,nestjs,expressjs,html,css,react,nextjs,angular,vue" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=aws,nodejs,nestjs,expressjs,html,css,react,nextjs" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
   <p align="center">
