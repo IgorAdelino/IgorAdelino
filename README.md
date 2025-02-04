@@ -55,7 +55,7 @@
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,nodejs,nestjs,expressjs,rabbitmq,docker,css,react,nextjs" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=aws,nodejs,nestjs,flask,expressjs,rabbitmq,docker,css,react,nextjs" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
   <p align="center">
