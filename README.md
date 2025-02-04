@@ -45,7 +45,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,typescript,golang,solidity" alt="My Skills" style="max-width: 100%; width: 50%;">
+        <img src="https://skillicons.dev/icons?i=js,typescript,python,solidity" alt="My Skills" style="max-width: 100%; width: 50%;">
       </a>
     </p>
   </div>
